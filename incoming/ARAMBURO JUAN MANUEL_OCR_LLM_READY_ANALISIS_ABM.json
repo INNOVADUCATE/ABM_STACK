@@ -1,0 +1,50 @@
+{
+  "document_id": "1131e15af893180a",
+  "cliente_id": "ARAMBURO JUAN MANUEL.pdf",
+  "campos": {
+    "dni": "23291398",
+    "cuil_cuit": "20-23291398-4",
+    "nombre_completo": null,
+    "direccion": null,
+    "localidad": "godoy cruz",
+    "matricula": "001201",
+    "laboratorio": null,
+    "tipo_persona": "sociedad"
+  },
+  "documentos_detectados_preliminar": {
+    "dni": true,
+    "titulo": true,
+    "matricula_actualizada": true,
+    "constancia_cuit": true,
+    "seguro_mala_praxis": true,
+    "adhesion_pami": false,
+    "adhesion_osep": true
+  },
+  "evidencia": {
+    "dni_candidatos": [
+      "23291398",
+      "2728193"
+    ],
+    "dni_mrz": [
+      "23291398"
+    ],
+    "cuit_candidatos": [
+      "00694292558",
+      "20-23291398-4"
+    ],
+    "matricula_candidatos": [
+      "001201",
+      "27",
+      "1201"
+    ],
+    "keywords": {
+      "dni": true,
+      "osep": true,
+      "pami": false,
+      "seguro": true,
+      "mala_praxis": true
+    }
+  },
+  "faltantes": [],
+  "txt_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\ABM_INTEGRACION\\CODIGO_FRANCO\\ui_ux\\data\\ocr_output\\ARAMBURO JUAN MANUEL_OCR_LLM_READY.txt"
+}

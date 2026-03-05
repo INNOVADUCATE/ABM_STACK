@@ -1,0 +1,77 @@
+{
+  "document_id": "25acd5a133ac9369",
+  "cliente_id": "8359 Villar Arancibia.pdf",
+  "campos": {
+    "dni": "30212546",
+    "cuil_cuit": "20-3021254-6",
+    "nombre_completo": "ENTRE EL SEÑOR ARANCIBIA RODRIGO JAVIER, D.N.I. .., C.U.I.T. --. COENDOZ",
+    "direccion": "rugenda 365 parque drummond",
+    "localidad": "mendoza",
+    "matricula": "001366",
+    "laboratorio": null,
+    "tipo_persona": "sociedad"
+  },
+  "documentos_detectados_preliminar": {
+    "dni": true,
+    "titulo": true,
+    "matricula_actualizada": true,
+    "constancia_cuit": true,
+    "seguro_mala_praxis": true,
+    "adhesion_pami": true,
+    "adhesion_osep": true
+  },
+  "evidencia": {
+    "dni_candidatos": [
+      "30.212.546",
+      "30.212.546",
+      "30212546",
+      "30.212.546",
+      "30.212.546"
+    ],
+    "dni_mrz": [
+      "30212546"
+    ],
+    "cuit_candidatos": [
+      "20302125466",
+      "27-27969169-0",
+      "20-30212546-6",
+      "27-27969169-0",
+      "27-27969169-0",
+      "20-30212546-6",
+      "27-27969169-0",
+      "20-30212546-6",
+      "27-27969169-0",
+      "2030212546-6",
+      "30-71879553-9",
+      "30-71879553-9",
+      "00000997270",
+      "46438260918",
+      "20-30212546-6",
+      "20-30212546-6",
+      "27-06711428-6"
+    ],
+    "matricula_candidatos": [
+      "1366",
+      "136",
+      "20",
+      "001366",
+      "1366",
+      "13",
+      "1980349",
+      "1366",
+      "1366",
+      "1366",
+      "1366",
+      "1366"
+    ],
+    "keywords": {
+      "dni": true,
+      "osep": true,
+      "pami": true,
+      "seguro": true,
+      "mala_praxis": true
+    }
+  },
+  "faltantes": [],
+  "txt_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\ABM_INTEGRACION\\CODIGO_FRANCO\\ui_ux\\data\\ocr_output\\8359 Villar Arancibia_OCR_LLM_READY.txt"
+}

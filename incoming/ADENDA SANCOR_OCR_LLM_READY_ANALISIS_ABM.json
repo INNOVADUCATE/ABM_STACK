@@ -1,0 +1,38 @@
+{
+  "document_id": "3d6983ca429fb76a",
+  "cliente_id": "ADENDA SANCOR.pdf",
+  "campos": {
+    "dni": null,
+    "cuil_cuit": null,
+    "nombre_completo": null,
+    "direccion": null,
+    "localidad": "mendoza",
+    "matricula": null,
+    "laboratorio": null,
+    "tipo_persona": null
+  },
+  "documentos_detectados_preliminar": {
+    "dni": false,
+    "titulo": false,
+    "matricula_actualizada": false,
+    "constancia_cuit": false,
+    "seguro_mala_praxis": false,
+    "adhesion_pami": false,
+    "adhesion_osep": false
+  },
+  "evidencia": {
+    "dni_candidatos": [],
+    "dni_mrz": [],
+    "cuit_candidatos": [],
+    "matricula_candidatos": [],
+    "keywords": {
+      "dni": true,
+      "osep": false,
+      "pami": false,
+      "seguro": false,
+      "mala_praxis": false
+    }
+  },
+  "faltantes": [],
+  "txt_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\ABM_INTEGRACION\\CODIGO_FRANCO\\ui_ux\\data\\ocr_output\\ADENDA SANCOR_OCR_LLM_READY.txt"
+}
